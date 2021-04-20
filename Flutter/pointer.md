@@ -1,4 +1,4 @@
-# 鼠标
+# 鼠标小知识
 
 ## 鼠标点击忽略
 
@@ -10,4 +10,3 @@
 ### 解决HtmlElementView捕获到鼠标事件
 
 * `pointer_interceptor: ^0.8.0+2`
-
